@@ -3,15 +3,12 @@
 Explore the citation graph around any academic paper. Search the
 [OpenAlex](https://openalex.org) index (over 320 million works as of October
 2026, per the live API count), get results ranked by relevance plus citation
-influence, then expand any paper into an interactive graph of the work it
-builds on and the work that builds on it.
+influence, then expand any paper into an interactive graph of
+the work it builds on and the work that builds on it.
 
 Built as an original work sample for a Product Engineer application. The
 stack mirrors the target product area (research / literature tooling):
 **Python + FastAPI** backend, **Next.js + React + TypeScript** frontend.
-
-![Ranked search results](docs/search-results.png)
-![Citation graph](docs/citation-graph.png)
 
 ## What it does
 
